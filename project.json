@@ -1,0 +1,41 @@
+{
+  "name": "organizational-charts-repository",
+  "version": "1.0.0",
+  "description": "A well-organized repository showcasing organizational charts and department structures",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drinkiwix/test"
+  },
+  "keywords": [
+    "organizational-charts",
+    "department-structure", 
+    "business-organization",
+    "documentation",
+    "image-catalog"
+  ],
+  "author": "Repository Organizer",
+  "license": "MIT",
+  "structure": {
+    "images": {
+      "consumer-services": "Consumer-facing department charts",
+      "risk-management": "Risk and compliance department charts", 
+      "sales-marketing": "Sales and marketing team charts",
+      "operations": "Operational department charts",
+      "finance-strategy": "Finance and strategy team charts",
+      "specialized-teams": "Specialized team organizational charts"
+    },
+    "assets": "Additional project assets"
+  },
+  "stats": {
+    "total_images": 19,
+    "categories": 6,
+    "departments_covered": [
+      "Consumer Services",
+      "Risk Management", 
+      "Sales & Marketing",
+      "Operations",
+      "Finance & Strategy",
+      "Specialized Teams"
+    ]
+  }
+}
